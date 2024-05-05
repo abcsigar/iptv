@@ -42,8 +42,6 @@ http://192.168.44.1:18866/udp/239.49.0.109:8000
 http://192.168.44.1:18866/udp/239.49.8.52:9810
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球HD
 http://192.168.44.1:18866/udp/239.49.8.85:8000
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="央视",梨园HD
-http://192.168.44.1:18866/udp/239.49.8.193:8000
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",风云音乐HD
 http://192.168.44.1:18866/udp/239.49.8.92:8000
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",第一剧场HD
@@ -130,6 +128,8 @@ http://192.168.44.1:18866/udp/239.49.0.178:8000
 http://192.168.44.1:18866/udp/239.49.0.180:8000
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://192.168.44.1:18866/udp/239.49.0.245:8000
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="卫视",中视梨园HD
+http://192.168.44.1:18866/udp/239.49.8.193:8000
 #EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="卫视",武术世界HD
 http://192.168.44.1:18866/udp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视",快乐垂钓HD
